@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data Science Portfolio
 
 profile:
-  align: right
-  image: 5A.gif
-  image_circular: false # crops the image to make it circular
+  align: left
+  image: prof_pic.gif
+  image_circular: true # crops the image to make it circular
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-## Greetings! Welcome to My Data Science Portfolio!
-
-![](images/IMG_4590%20(2).jpg){width="230"}
+# Greetings! Welcome to My Data Science Portfolio!
 
 ![](images/5A-01.gif){width="324"}
 
@@ -28,11 +26,11 @@ social: true  # includes social icons at the bottom of the page
 
 ### I am a Dallasite, born and raised. My future goal is to become a world-renown Data Scientists. I want to focus on learning more and more. Below is my Core Clarity.
 
-![](images/1.JPG)
+![](images/core%20clairity.JPG)
 
 ## Interests:
 
-### My interests are playing basketball, serving at church, and traveling.
+My interests are playing basketball, serving at church, and traveling.
 
 ![](images/basketball.jpg){width="341"}
 
