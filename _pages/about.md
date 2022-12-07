@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Science Portfolio
+subtitle: Data Scientist
 
 profile:
   align: left
-  image: prof_pic.gif
-  image_circular: true # crops the image to make it circular
+  image: vonguyen.jpg
+  image_circular: True # crops the image to make it circular
   address:
 
 news: False  # includes a list of news items
