@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist
+subtitle: Data Science Portfolio
 
 profile:
   align: left
@@ -15,15 +15,13 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
 
-# Greetings! Welcome to My Data Science Portfolio!
+Greetings! Welcome to My Data Science Portfolio!
 
-![](assets/5A-01.gif){width="324"}
+My name is Vo Nguyen, and I am a aspiring Data Scientists!
 
-### My name is Vo Nguyen, and I am a aspiring Data Scientists!
+I am a Dallasite, born and raised. My future goal is to become a world-renown Data Scientists. I want to focus on learning more and more. Below is my Core Clarity.
 
-### I am a Dallasite, born and raised. My future goal is to become a world-renown Data Scientists. I want to focus on learning more and more. Below is my Core Clarity.
-
-![](assets/core%20clairity.JPG)
+image: core clarity.jpg
 
 ## Interests:
 
