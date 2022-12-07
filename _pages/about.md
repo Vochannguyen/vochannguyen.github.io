@@ -1,33 +1,35 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
 profile:
-  align: left
+  align: right
   image: vonguyen.jpg
   image_circular: True # crops the image to make it circular
-  address:
+  address: VoChanNguyen@gmail.com
 
 news: False  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
-social: False  # includes social icons at the bottom of the page
+social: True  # includes social icons at the bottom of the page
 ---
 
 ## **Welcome to My Data Science Portfolio!**
 
-My name is Vo Nguyen, and I am an aspiring Data Scientist!
+My name is Vo Nguyen, and I am Master's of Data Science at SMU.
 
-I was born in Dallas. I went to the University of Texas at Austin to study Actuarial Science, and now I am currently a Master's of Data Science graduate student at SMU
+My Data Science background is in Machine Learning Models, and my specialty is in KNN, Naive Bayes, and Multiple Linear Regression model. My case studies can be found in the Projects tab. ![image](assets/img/core%20clairity-02.JPG)
 
-![image](assets/img/core%20clairity-02.JPG)  
-  
-  
-    
-    
+<br>
 
-### Interests:  
+<h4>**Education**</h4>
+
+🎓 M.S. in Data Science (2022--2024) <br>       Southern Methodist University
+
+🎓 B.Sc. in Mathematics (Actuarial Science) (2010--2014) <br>       The University of Texas at Austin
+
+<h4>**Interest**</h4>
 
 My interests are playing basketball, serving at church, and traveling.
 
