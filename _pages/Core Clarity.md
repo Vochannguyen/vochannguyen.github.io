@@ -1,5 +1,5 @@
 ---
-layout: Core Clarity
+layout: cv
 permalink: /Core Clarity/
 title: Core Clarity
 nav: true
