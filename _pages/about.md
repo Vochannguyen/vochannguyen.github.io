@@ -2,14 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: Welcome to My Data Science Portfolio 😎 <br>
-<a href='https://datascience.smu.edu/'>Southern Methodist University</a>
+subtitle: Welcome to My Data Science Portfolio 😎 <a href='https://datascience.smu.edu/'>Southern Methodist University</a>
 
 profile:
   align: right
   image: vo.png
   image_circular: True # crops the image to make it circular
-  address: VoChanNguyen@gmail.com
+  address: 
 
 news: False  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
@@ -34,4 +33,4 @@ My interests are playing basketball, serving at church, and traveling.
 
 My interests are playing basketball, serving at church, and traveling.
 
-image: basketball.jpg
+![image](/assets/images/basketball.jpg)
