@@ -15,17 +15,19 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
 
-### Welcome to My Data Science Portfolio!
+## **Welcome to My Data Science Portfolio!**
 
-My name is Vo Nguyen, and I am a aspiring Data Scientists!
+My name is Vo Nguyen, and I am an aspiring Data Scientist!
 
-I am a Dallasite, born and raised. My future goal is to become a world-renown Data Scientists. I want to focus on learning more and more. Below is my Core Clarity.
+I was born in Dallas. I went to the University of Texas at Austin to study Actuarial Science, and now I am currently a Master's of Data Science graduate student at SMU
 
-![image](images/core%20clairity-02.JPG)
+![image](assets/img/core%20clairity-02.JPG)  
+  
+  
+    
+    
 
-
-
-### Interests:
+### Interests:  
 
 My interests are playing basketball, serving at church, and traveling.
 
