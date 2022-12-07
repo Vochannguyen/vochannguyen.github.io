@@ -2,11 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Welcome to My Data Science Portfolio 😎 <br>
+<a href='https://datascience.smu.edu/'>Southern Methodist University</a>
 
 profile:
   align: right
-  image: vo.jpg
+  image: vo.png
   image_circular: True # crops the image to make it circular
   address: VoChanNguyen@gmail.com
 
@@ -15,14 +16,11 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: True  # includes social icons at the bottom of the page
 ---
 
-**Welcome to My Data Science Portfolio!**
-
 I am a Master's of Data Science Graduate Student at SMU.
 
-My Data Science background is in Machine Learning Models, and my specialty is in KNN, Naive Bayes, and Multiple Linear Regression model. My case studies can be found in the Projects tab.
+My Data Science Track is in Machine Learning Models, where my specialty is in KNN, Naive Bayes, and Multiple Linear Regression model. My case studies can be found in the Projects Tab, and the video presentations are in the Video Presentations Tab.
 
 My interests are playing basketball, serving at church, and traveling.
-
 
 <br>
 
