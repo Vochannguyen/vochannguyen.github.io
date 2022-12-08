@@ -17,9 +17,9 @@ social: True  # includes social icons at the bottom of the page
 
 I am a Master's of Data Science Graduate Student at SMU.
 
-My Data Science Track is in Machine Learning Models, where my specialty is in KNN, Naive Bayes, and Multiple Linear Regression model. My case studies can be found in the Projects Tab, and the video presentations are in the Video Presentations Tab.
+My Data Science specialty is in Machine Learning. I am currently working on my capstone project in Education. My case studies can be found in the Projects Tab, and the video presentations are included. Additionally, my Core Clarity, Resume/CV, and Teaching can be found int he navigation bar.
 
-My interests are playing basketball, serving at church, and traveling.
+In my free time, I enjoy playing basketball, serving at church, and traveling with my lovely wife.
 
 <br>
 
@@ -29,14 +29,18 @@ My interests are playing basketball, serving at church, and traveling.
 
 🎓 B.S. in Mathematics (Actuarial Science) (2010--2014) <br>       The University of Texas at Austin
 
-<h4>Machine Learning Models Specialties </h4>
+<h4>Computer Science Skills: Machine Learning Models</h4>
 
-+ KNN Regression
-+ Naive Bayes Model
+🤖    KNN Regression
+
+🤖    Naive Bayes Model
  
-<h4>Statistical Skills</h4>
+<h4>Mathematics Skills</h4>
 
-+ Multiple Linear Regression with Interactions
+🧠  Statistics: Multiple Linear Regression with Interactions
+
+🧠  Probabilities & Finance: Actuarial Science Background
+
 
 <h4>Interest</h4>
 
