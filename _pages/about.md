@@ -29,6 +29,8 @@ In my free time, I enjoy playing basketball, serving at church, and traveling wi
 
 🎓 B.S. in Mathematics (Actuarial Science) (2010--2014) <br>       The University of Texas at Austin
 
+<br>
+
 <h4>Computer Science Skills: Machine Learning Models</h4>
 
 🤖    KNN Regression
@@ -41,8 +43,6 @@ In my free time, I enjoy playing basketball, serving at church, and traveling wi
 
 🧠  Probabilities & Finance: Actuarial Science Background
 
-
-<h4>Interest</h4>
 
 -   <div class="col-sm mt-3 mt-md-0">
 
