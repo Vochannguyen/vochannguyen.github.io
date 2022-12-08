@@ -29,8 +29,17 @@ My interests are playing basketball, serving at church, and traveling.
 
 🎓 B.S. in Mathematics (Actuarial Science) (2010--2014) <br>       The University of Texas at Austin
 
+<h4>Machine Learning Models Specialties </h4>
+
++ KNN Regression
++ Naive Bayes Model
+ 
+<h4>Statistical Skills</h4>
+
++ Multiple Linear Regression with Interactions
+
 <h4>Interest</h4>
 
-My interests are playing basketball, serving at church, and traveling.
+-   <div class="col-sm mt-3 mt-md-0">
 
-![image](/assets/images/basketball.jpg)
+           {% include figure.html path="assets/img/basketball.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

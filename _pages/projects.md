@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Projects
-permalink: /Data Science Projects/
+permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [R, SAS]
+display_categories: [R, SAS, Python, MySQL]
 horizontal: false
 ---
 
