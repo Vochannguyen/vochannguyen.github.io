@@ -35,7 +35,7 @@ In my free time, I enjoy playing basketball, serving at church, and traveling wi
 
 <h4>Technical Skills</h4>
 
-🤖    **Machine Leader Models:** KNN Regression, Naive Bayes Model
+🤖 **Machine Leader Models:** KNN Regression, Naive Bayes
 
 📊 **Statistics:** Multiple Linear Regression with Interactions
 
