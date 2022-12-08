@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Core Clarity/
+permalink: /page/
 title: Core Clarity
 nav: true
 nav_order: 6
