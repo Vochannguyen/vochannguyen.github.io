@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Welcome to My Data Science Portfolio 😎 <a href='https://datascience.smu.edu/'>Southern Methodist University</a>
+subtitle: Welcome to My Data Portfolio 😎 <a href='https://datascience.smu.edu/'>Southern Methodist University</a>
 
 profile:
   align: right
@@ -15,9 +15,9 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: True  # includes social icons at the bottom of the page
 ---
 
-I am a Master's of Data Science Graduate Student at SMU.
+I'm a Master's of Data Science and Education Student at SMU.
 
-My Data Science specialty is in Machine Learning. I am currently working on my capstone project in Education. My case studies can be found in the Projects Tab, and the video presentations are included. Additionally, my Core Clarity, Resume/CV, and Teaching can be found int he navigation bar.
+My Data Science specialization is in Machine Learning, and my Education specialization is STEAM design. I am currently working on my capstone project in Data Science. My case studies can be found in the Projects tab, and the video presentations are included. Additionally, my Core Clarity, Resume/CV, and Teaching can be found in the navigation bar.
 
 In my free time, I enjoy playing basketball, serving at church, and traveling with my lovely wife.
 
@@ -27,23 +27,17 @@ In my free time, I enjoy playing basketball, serving at church, and traveling wi
 
 🎓 M.S. in Data Science (2022--2024) <br>       Southern Methodist University
 
+🎓 M.Ed. in Education (2020--2025) <br>       Southern Methodist University
+
 🎓 B.S. in Mathematics (Actuarial Science) (2010--2014) <br>       The University of Texas at Austin
 
 <br>
 
-<h4>Computer Science Skills: Machine Learning Models</h4>
+<h4>Technical Skills</h4>
 
-🤖    KNN Regression
+🤖    **Machine Leader Models:** KNN Regression, Naive Bayes Model
 
-🤖    Naive Bayes Model
- 
-<h4>Mathematics Skills</h4>
+📊 **Statistics:** Multiple Linear Regression with Interactions
 
-🧠  Statistics: Multiple Linear Regression with Interactions
+📈📉 **Probabilities & Finance:** Actuarial Science Background
 
-🧠  Probabilities & Finance: Actuarial Science Background
-
-
--   <div class="col-sm mt-3 mt-md-0">
-
-           {% include figure.html path="assets/img/basketball.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

@@ -2,16 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Vo Chan Nguyen
+    - name: Email
+      value: VoChanNguyen@gmail.com
+    - name: Technical Field
+      value: Data Science & Education
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: M.S.
       institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:
