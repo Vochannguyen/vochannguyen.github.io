@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Beers and Breweries
-description: KNN Model on Predictions ABV & IBU
+title: knn model
+description: Predictions ABV & IBU
 img: assets/img/5A.gif
 importance: 1
 category: r

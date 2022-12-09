@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Case Studies
 permalink: /projects/
-description: Case Studies + RShiny Applications
+description: A collection of data science projects and RShiny applications
 nav: true
 display_categories: [r, rshiny]
 horizontal: false
