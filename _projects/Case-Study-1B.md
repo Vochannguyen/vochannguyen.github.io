@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Beers and Breweries
-description: Budweiser Project on Predicitng IPAs and Ale given the ABU and IBV
+description: KNN Model on Predictions ABV & IBU
 img: assets/img/5A.gif
 importance: 1
-category: case studies
+category: r
 ---
 
 
