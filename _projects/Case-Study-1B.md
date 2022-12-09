@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Case Study 2 Beers and Breweries
+title: Beers and Breweries
 description: Budweiser Project on Predicitng IPAs and Ale given the ABU and IBV
-img: assets/img/12.jpg
+img: assets/img/5A..gif
 importance: 1
-category: r
+category: case studies
 ---
 
 
