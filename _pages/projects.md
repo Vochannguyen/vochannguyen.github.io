@@ -2,9 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Data Science Projects
+description: A collection of past projects and talks.
 nav: true
-nav_order: 2
 display_categories: [R, SAS, Python, MySQL]
 horizontal: false
 ---
