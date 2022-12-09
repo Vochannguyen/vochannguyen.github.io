@@ -1,10 +1,11 @@
 ---
 layout: page
-title: AttritionRShiny
-description: Prediction
-img: assets/img/launch.jpg
+title: Attrition
+description: A case study focus on Attrition Prediction and Salary Model
+img: assets/img/basketball.jpg
 importance: 1
 category: rshiny
 ---
 
-RShiny Application for Prediction Attrition <a href="https://vochannguyen.shinyapps.io/VoShiny2/">Prediction Attrition</a>
+RShiny Application: <a href='https://vochannguyen.shinyapps.io/VoShiny2/'>Prediction Attrition</a>
+
