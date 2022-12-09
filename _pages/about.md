@@ -17,7 +17,7 @@ social: True  # includes social icons at the bottom of the page
 
 I'm a Master's of Data Science and Education Student at SMU.
 
-My Data Science specialization is in Machine Learning, and my Education specialization is STEAM design. I am currently working on my capstone project in Data Science. My case studies can be found in the Projects tab, and the video presentations are included. Additionally, my Core Clarity, Resume/CV, and Teaching can be found in the navigation bar.
+My Data Science specialization is in Machine Learning, and my Education specialization is in STEAM design. I am currently working on my capstone project in Data Science. My case studies can be found in the navigation bar, and the video presentations are included. Additionally, my Core Clarity, Resume/CV, and Teaching can be found in the navigation bar.
 
 In my free time, I enjoy playing basketball, serving at church, and traveling with my lovely wife.
 
