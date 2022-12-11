@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+My own company called Algebra Games designed to create fun games to help students learn Algebra 1 : <a href='https://www.teacherspayteachers.com/Store/Algebra-Games'>Algebra Games Store</a>
+
+I currently have 8 years of teaching Secondary Mathematics, and I scored among the highest in our district for Algebra 1 STAAR.
