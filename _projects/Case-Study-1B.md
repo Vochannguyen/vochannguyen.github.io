@@ -1,6 +1,6 @@
 ---
 layout: page
-title: knn model
+title: KNN Model
 description: Predictions ABV & IBU
 img: assets/img/5A.gif
 importance: 1
