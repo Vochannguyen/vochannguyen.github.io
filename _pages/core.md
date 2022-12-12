@@ -1,10 +1,10 @@
 ---
-layout: cv
+layout: stats
 permalink: /coreclarity/
-title: Core Clarity
+title: Statistics Projects
 nav: true
-nav_order: 6
-cv_pdf: VoNguyenCoreClarity.pdf
+nav_order: 3
+cv_pdf: VoandSantiStat.pdf
 ---
 
-StrengthFinder Core Clarity Chart
+Statistics Projects
