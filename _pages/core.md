@@ -1,9 +1,9 @@
 ---
-layout: cv
+layout: page
 permalink: /stats/
-title: Statistics Projects
+title: Core Clarity
 nav: true
-nav_order: 3
+nav_order: 6
 cv_pdf: VoandSantiStat.pdf
 ---
 
