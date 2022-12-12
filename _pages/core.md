@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /coreclarity/
+permalink: /stats/
 title: Statistics Projects
 nav: true
 nav_order: 3
