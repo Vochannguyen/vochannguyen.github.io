@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home Price
-description: Statistical Project
+description: Stats 1 Project
 img: assets/img/home.gif
 importance: 1
 category: r
