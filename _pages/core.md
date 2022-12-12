@@ -1,5 +1,5 @@
 ---
-layout: stats
+layout: cv
 permalink: /coreclarity/
 title: Statistics Projects
 nav: true
