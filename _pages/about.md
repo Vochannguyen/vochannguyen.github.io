@@ -35,11 +35,11 @@ In my free time, I enjoy playing basketball, serving at church, and traveling wi
 
 <h4>Technical Skills</h4>
 
-🤖 **Machine Learning Models:** KNN Regression, Naive Bayes
+🤖 **Machine Learning Models:** Decision Tree, RandomForest, Logistic, LightGradient, XGBoosting, Neural Networks (Multi-Layered Perceptron), NLP, MLR
 
-📊 **Statistics:** Multiple Linear Regression with Interactions
+📈📉 **Use Case:** Microsoft Azure Databricks, Apche, Spark, Palantir, H20.AI
 
-📈📉 **Probabilities & Finance:** Actuarial Science Background
+📊 **Data Visualization:** Proficient in Tablaeu, Excel, Processing, JavaScript
 
 
 
