@@ -68,6 +68,7 @@ Outside of work, I enjoy playing basketball in a rec league, serving at church, 
 
 📊 **Data Visualization:** Proficient in Tablaeu, Excel, Processing, JavaScript
 
+<br>
 
 <h4> Research and Publication </h4>
 **Published Peer-Reviewed Data Science Journal**  
