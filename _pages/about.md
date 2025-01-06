@@ -31,22 +31,30 @@ Outside of work, I enjoy playing basketball in a rec league, serving at church, 
 
 <br>
 
-<hr4> Professional Experience <hr4>
-**AT&T – Data Scientist (June 2023 – Present)**  
-- Developed Generative AI solutions for RFP and Knowledge Management platforms by creating Retrieval Augmented Generation (RAG) systems and data pipelines, achieving \$800k cost savings  
-- Optimized database document management, ingestion, and chunking strategies using Python, Microsoft Azure OpenAI Services, Microsoft SharePoint, and Azure DevOps  
-- Served as a technical liaison between the Chief Data Office (Mid-Markets and Enterprise ProServe) and internal clients, bridging communication gaps, resolving technical issues, and enhancing project efficiency  
-- Created Generative AI proofs of concept using Streamlit, producing demo videos and presentations to showcase project updates and enhance client engagement
+<h4>Professional Experience</h4>
 
-**Dallas Independent School District – Distinguished Educator (October 2016 – May 2023)**  
-- Applied data-driven instruction to identify knowledge gaps and monitor students’ progress toward learning goals  
-- Designed differentiated lessons to engage and meet diverse learning needs  
-- Leveraged modern tools (e.g., VR, Desmos) to enrich learning experiences and maintain academic rigor  
-- Collaborated with fellow educators to develop lesson plans and model mathematical exemplars
+<p><strong>AT&T – Data Scientist (June 2023 – Present)</strong></p>
+<ul>
+  <li>Developed Generative AI solutions for RFP and Knowledge Management platforms by creating Retrieval Augmented Generation (RAG) systems and data pipelines, achieving $800k cost savings</li>
+  <li>Optimized database document management, ingestion, and chunking strategies using Python, Microsoft Azure OpenAI Services, Microsoft SharePoint, and Azure DevOps</li>
+  <li>Served as a technical liaison between the Chief Data Office (Mid-Markets and Enterprise ProServe) and internal clients, bridging communication gaps, resolving technical issues, and enhancing project efficiency</li>
+  <li>Created Generative AI proofs of concept using Streamlit, producing demo videos and presentations to showcase project updates and enhance client engagement</li>
+</ul>
 
-**New York Life – Senior Specialist Life Underwriter (July 2014 – May 2015)**  
-- Conducted detailed analyses of medical and financial information to determine risk classes  
-- Researched medical conditions for critical and complex cases, ensuring thorough risk assessment
+<p><strong>Dallas Independent School District – Distinguished Educator (October 2016 – May 2023)</strong></p>
+<ul>
+  <li>Applied data-driven instruction to identify knowledge gaps and monitor students’ progress toward learning goals</li>
+  <li>Designed differentiated lessons to engage and meet diverse learning needs</li>
+  <li>Leveraged modern tools (e.g., VR, Desmos) to enrich learning experiences and maintain academic rigor</li>
+  <li>Collaborated with fellow educators to develop lesson plans and model mathematical exemplars</li>
+</ul>
+
+<p><strong>New York Life – Senior Specialist Life Underwriter (July 2014 – May 2015)</strong></p>
+<ul>
+  <li>Conducted detailed analyses of medical and financial information to determine risk classes</li>
+  <li>Researched medical conditions for critical and complex cases, ensuring thorough risk assessment</li>
+</ul>
+
 
 
 
